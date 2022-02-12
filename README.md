@@ -6,3 +6,5 @@ Furthermore, MQTT messages can be received to open the front door.
 The ESP32 is powered directly from the bell system, so no external power supply is required.
 
 #Wiring
+
+<img src="https://github.com/P2W2/housebell/blob/readme_featrue/housebell.png" width="800" height="600">
